@@ -1,6 +1,6 @@
 - 👋 Hi, I’m IronExcavater
 - 👀 I’m interested in Python and basic 3D engines
 - 🌱 I’m currently learning basic 3D engines
-- 🪛 I'm currently working on a Old Doom style 3D game
+- 🪛 I'm currently working on a old Doom style 3D game
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me N/A
