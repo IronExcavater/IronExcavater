@@ -10,7 +10,7 @@
 <h3 align="left">Learn more about me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/niclas rogulski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niclas rogulski" height="30" width="40" /></a>
-<a href="https://niclas-rogulski.itch.io" target="blank"><img align="center" src="https://static.itch.io/images/itchio-textless-black.svg" alt="niclas rogulski" height="30" width="40" style="filter: invert(34%) sepia(81%) saturate(5077%) hue-rotate(335deg) brightness(102%) contrast(108%);"/></a>
+<a href="https://niclas-rogulski.itch.io" target="blank"><img align="center" src="https://static.itch.io/images/itchio-textless-black.svg" alt="niclas rogulski" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
