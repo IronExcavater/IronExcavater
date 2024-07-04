@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niclas (aka Iron)</h1>
-<h3 align="center">A passionate front-end/interactive programmer, and gamer in my spare time.</h3>
+<h3 align="center">A passionate game developer and front-end programmer, and gamer in my spare time.</h3>
 
 - 🔭 I’m currently maintaining my [Modlist Manager](https://github.com/IronExcavater/Modlist-Manager)
 
