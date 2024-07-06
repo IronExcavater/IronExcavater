@@ -26,4 +26,4 @@ I am committed to continuous learning and growth, always seeking opportunities t
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50"></a>&emsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"></a>&emsp;
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/IronExcavater/IronExcavater/85299078f818194f46f8a010d19bf5d9b6517444/icons/new-unity-white.svg" alt="Unity" width="50"></a>&emsp;
-</p><br><br>
+</p>
