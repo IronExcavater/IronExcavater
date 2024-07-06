@@ -10,20 +10,20 @@
 I am committed to continuous learning and growth, always seeking opportunities to contribute to and innovate within the gaming industry.</p>
 <h3 align="left">Explore more?</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/niclas rogulski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niclas rogulski" height="70"></a>
-  <a href="https://github.com/IronExcavater/IronExcavater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="IronExcavater" height="70"></a>
-  <a href="https://niclas-rogulski.itch.io" target="blank"><img align="center" src="https://static.itch.io/images/itchio-textless-black.svg" alt="niclas rogulski" height="70" style="filter: invert(65%) sepia(88%) saturate(2965%) hue-rotate(318deg) brightness(90%) contrast(121%);"></a>
+  <a href="https://linkedin.com/in/niclas rogulski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="niclas rogulski" width="70"></a>&emsp;
+  <a href="https://github.com/IronExcavater/IronExcavater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="IronExcavater" width="70"></a>&emsp;
+  <a href="https://niclas-rogulski.itch.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/IronExcavater/IronExcavater/85299078f818194f46f8a010d19bf5d9b6517444/icons/itchio-textless-red.svg" alt="niclas rogulski" width="70"></a>&emsp;
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="50"></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50"></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50"></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50"></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="50"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50"></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50"></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50"></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50"></a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" height="50"></a>
-</p>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50"></a>&emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50"></a>&emsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50"></a>&emsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50"></a>&emsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50"></a>&emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"></a>&emsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50"></a>&emsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50"></a>&emsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"></a>&emsp;
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/IronExcavater/IronExcavater/85299078f818194f46f8a010d19bf5d9b6517444/icons/new-unity-white.svg" alt="Unity" width="50"></a>&emsp;
+</p><br><br>
