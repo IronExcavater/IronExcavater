@@ -10,7 +10,7 @@
 I am committed to continuous learning and growth, always seeking opportunities to contribute to and innovate within the gaming industry.</p>
 <h3 align="left">Explore more?</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/niclas rogulski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="niclas rogulski" width="70"></a>&emsp;
+  <a href="https://linkedin.com/in/niclas rogulski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niclas rogulski" width="70"></a>&emsp;
   <a href="https://github.com/IronExcavater/IronExcavater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="IronExcavater" width="70"></a>&emsp;
   <a href="https://niclas-rogulski.itch.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/IronExcavater/IronExcavater/85299078f818194f46f8a010d19bf5d9b6517444/icons/itchio-textless-red.svg" alt="niclas rogulski" width="70"></a>&emsp;
 </p>
