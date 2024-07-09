@@ -1,3 +1,6 @@
+kramdown:
+  input: Kramdown
+
 <h1 align="center">Hi 👋, I'm Niclas (aka Iron)</h1>
 <h3 align="center">A passionate game developer and front-end programmer ... and a gamer in my spare time.</h3>
 <ul>
