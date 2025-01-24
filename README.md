@@ -17,7 +17,7 @@ I am committed to continuous learning and growth, always seeking opportunities t
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a rel="noreferrer noopener" href="https://unity.com/products/unity-engine"><img width="50" alt="Unity" src="https://raw.githubusercontent.com/IronExcavater/IronExcavater/master/icons/new-unity-white.svg" align="center"></a>
-  <a rel="noreferrer noopener" href="https://www.w3schools.com/cs/"><img width="50" alt="C# icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" align="center"></a>
+  <a rel="noreferrer noopener" href="https://dotnet.microsoft.com/en-us/languages/csharp"><img width="50" alt="C# icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" align="center"></a>
   <a rel="noreferrer noopener" href="https://www.java.com"><img width="50" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="center"></a>
   <a rel="noreferrer noopener" href="https://www.python.org"><img width="50" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center"></a>
   <a rel="noreferrer noopener" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="50" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="center"></a>
