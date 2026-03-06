@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niclas (aka Iron)</h1>
 <h3 align="center">A passionate game developer and front-end programmer ... and a gamer in my spare time.</h3>
 <ul>
-  <li>🔭 I’m creating a stealth fps tech demo in Unreal</li>
+  <li>🔭 I’m creating a <a href="https://github.com/IronExcavater/return-spotify-lyrics">Spotify extension</a> to improve the Spotify free experience</li>
   <li>🌱 I’m studying a <strong>Bachelor's of Games Development</strong> at the University of Technology, Sydney</li>
   <li>👨🏻‍💼 I'm a <strong>Software Engineer Intern</strong> at <a target="_blank" href="https://karbonhq.com">Karbon</a></li>
 </ul>
